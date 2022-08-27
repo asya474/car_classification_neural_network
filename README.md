@@ -1,5 +1,11 @@
 # car_classification_neural_networks
 An example of car classification on a small dataset based on a convolutional neural network
+
+Ссылка на соревнование на Kaggle https://www.kaggle.com/competitions/sf-dl-car-classification
+
+Ссылка на датасет https://www.kaggle.com/competitions/sf-dl-car-classification/data
+
+
 Целью проекта являлась классификация изображения автомобилей на несколько классов.
 В процессе работы над проектом было проверены разные варианты параметров, но, к сожалению,сводную таблицу я предоставить не могу, так как организация экспериментов была несколько хаотичной.
 Так же попыталась учесть общие замечания к учебным проектам, обилие которых встречалось в репозитории с отзывами.
